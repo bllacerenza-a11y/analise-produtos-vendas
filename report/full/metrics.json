@@ -1,0 +1,17 @@
+{
+  "metrics": {
+    "period": "2011-01 a 2011-11 (dezembro de 2011 é parcial na fonte)",
+    "gross_sales_gbp": 9204145.72,
+    "orders": 17582,
+    "units": 4914889,
+    "median_order_gbp": 305.48,
+    "products": 3825
+  },
+  "quality": {
+    "source_rows": 541909,
+    "cancelled_or_nonpositive_quantity_rows": 10624,
+    "invalid_rows": 2517,
+    "excluded_outside_jan_nov_2011": 68006,
+    "analyzed_rows": 463513
+  }
+}
